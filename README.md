@@ -1,14 +1,27 @@
-# Medicinal-leaf-detection
-Built and trained a CNN based Medicinal Leaf Detection model in Python, achieving 93% classification accuracy  across plant species
-Detects medicinal plant species from leaf images.
-CNN-based image classification model.
-Upload and classify leaf images.
-Achieved 93% classification accuracy.
-Simple and user-friendly Python interface.
-Technologies Used
-Python
-TensorFlow / Keras
-OpenCV
-NumPy
-Tkinter (if you used it for the GUI)
-Pillow (PIL)
+# 🌿 Medicinal Leaf Detection
+
+## Overview
+A CNN-based deep learning application that identifies medicinal plant species from leaf images.
+
+## Features
+- Detects medicinal plant species
+- Image classification using CNN
+- User-friendly interface
+- 93% classification accuracy
+
+## Technologies Used
+- Python
+- TensorFlow
+- Keras
+- OpenCV
+- NumPy
+- Pillow (PIL)
+
+## Results
+- Model Accuracy: 93%
+
+## Screenshots
+Project screenshots are included in this repository.
+
+## Note
+The dataset and trained model (.h5) files are not included because of their large size.
